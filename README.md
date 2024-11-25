@@ -55,7 +55,7 @@ The **Reviews Sentiment Analyzer** identifies the sentiment expressed in custome
    Access the API locally to test sentiment analysis functionality.
 
 ## Data Processing
-The dataset (amazon_alexa.tsv) is preprocessed using techniques like:
+The dataset (amazon_alexa.tsv) is preprocessed using techniques like:  
     • Text vectorization with TF-IDF.  
     • Scaling numerical features.  
 Processed data is available in the repository.
