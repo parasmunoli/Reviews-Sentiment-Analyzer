@@ -61,9 +61,9 @@ The dataset (amazon_alexa.tsv) is preprocessed using techniques like:
 Processed data is available in the repository.
 
 ## Models
-• Decision Tree
-• Random Forest
-• XGBoost
+ • Decision Tree
+ • Random Forest
+ • XGBoost
 Trained models are saved in the repository for immediate use.
 
 ## API Deployment
