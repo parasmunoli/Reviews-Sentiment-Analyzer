@@ -52,4 +52,26 @@ The **Reviews Sentiment Analyzer** identifies the sentiment expressed in custome
    ````bash
    python app.py
    ````
-   Access the API locally to test sentiment analysis functionality.   
+   Access the API locally to test sentiment analysis functionality.
+
+## Data Processing
+The dataset (amazon_alexa.tsv) is preprocessed using techniques like:
+    • Text vectorization with TF-IDF.
+    • Scaling numerical features.
+Processed data is available in the repository.
+
+## Models
+• Decision Tree
+• Random Forest
+• XGBoost
+Trained models are saved in the repository for immediate use.
+
+## API Deployment
+The project includes a Flask-based API (app.py) that provides endpoints for analyzing review sentiment.
+
+1. Run the API locally:
+   ````bash
+   Copy code
+   python app.py
+   ````
+2. Use tools like Postman to test the API with review data.
