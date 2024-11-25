@@ -51,4 +51,5 @@ The **Reviews Sentiment Analyzer** identifies the sentiment expressed in custome
 3. Run API:
    ````bash
    python app.py
-Access the API locally to test sentiment analysis functionality.   
+   ````
+   Access the API locally to test sentiment analysis functionality.   
